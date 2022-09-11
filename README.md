@@ -1,6 +1,6 @@
 # Javascript-Pattern-Programs-Solutions
 
-Awesome list of patterns which will test #logical thinking and will help in understanding more about how we can use #loops/nested loops
+Awesome list of patterns which will test # logical thinking and will help in understanding more about how we can use #loops/nested loops
 
 All the cool patterns solutions are provided in #Javascript, its a must try out list.
 
